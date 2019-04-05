@@ -6,8 +6,8 @@ def assign_variable(value)
   assign_variable = "Bob"
 end
 
-def argue(moan)
-  argue(moan)
+def argue
+
 end
 
 def greeting
