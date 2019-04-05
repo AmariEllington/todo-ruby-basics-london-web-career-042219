@@ -25,5 +25,3 @@ end
 def pizza_party(pepperoni)
   pizza_party = "cheese"
 end
-
-
