@@ -4,11 +4,10 @@ end
 
 def assign_variable(value)
   assign_variable = "Bob"
-
 end
 
 def argue
-
+  return argue
 end
 
 def greeting
